@@ -2,4 +2,4 @@
 	path = sub
 	url = https://github.com/QQtun/project2.git
 	branch = master
-	update = rebase
+	update = merge
